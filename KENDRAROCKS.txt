@@ -1,4 +1,5 @@
 why Kendra ROCKSSSSS
+
 1. coder queen
 
       
@@ -24,5 +25,10 @@ ___t_________
 ------------------------------------------------
 Thank you for visiting https://asciiart.website/
 
+<<<<<<< HEAD
 3. long hair don't care 
 
+=======
+
+4. She's nice :)
+>>>>>>> 8b1ec8fb7414701b8ddd556b763763e53f611756
